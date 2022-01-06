@@ -82,5 +82,5 @@ class Crawler:
 
 
 if __name__ == '__main__':
-    webcrawler = Crawler('https://www.zapgrafica.com.br/loja/home')
+    webcrawler = Crawler('https://www.SITE ESPECIFICO.com.br/loja/home')
     webcrawler.scraping()
